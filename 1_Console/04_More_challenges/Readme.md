@@ -1,0 +1,2 @@
+Everything in this section is 100% optional and just meant for you to play around and explore.
+None of these are required to continue, but they’re highly recommended if you want to get more comfortable with Linux and the terminal.
